@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    color: black;
+    background-color: darkmagenta;
+    font-size: xxx-large;
+}
+
+body {
+    background-color: darkblue;
+}
+
+.button {
+    background-color: darkmagenta;
+    color: black;
+}
